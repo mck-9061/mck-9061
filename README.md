@@ -4,6 +4,7 @@ I make code that sometimes works
 # Projects
 ## Elite Dangerous
 - [CATS](https://github.com/mck-9061/CATS) (C#, Python): Program for managing carriers across multiple accounts and automatically plotting routes
+- [exobiology-riches](https://github.com/mck-9061/exobiology-riches) (React, TypeScript, JavaScript, Node): Web app for finding high-value planets by searching pre-Odyssey discoveries
 - [ExobiologyHelper](https://github.com/mck-9061/ExobiologyHelper) (Java): Tool for predicting species on a planet based on star conditions (outdated)
 
 ## Experiments
