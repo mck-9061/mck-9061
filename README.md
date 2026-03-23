@@ -13,7 +13,7 @@ I make code that sometimes works
 - [MicrobitGuitar](https://github.com/mck-9061/MicrobitGuitar2) (Python, Arduino): Multi-effect guitar pedal with a Raspberry Pi, and an LCD controlled by an Arduino for status display
 
 ## Uni
-- [OutLap](https://github.com/mck-9061/DriftGame) (Unity, C#): Final year game dev project - racing game
+- [OutLap] (Unity, C#): Final year game dev project - racing game (no source for now)
 - [Cadence](https://github.com/mck-9061/Group15TeamProject) (PHP): Year 2 team project - ecommerce website
 - [AstonPortfolio3](https://github.com/mck-9061/AstonPortfolio3) (PHP): Year 1 solo project - project management website
 
