@@ -2,6 +2,11 @@
 I make code that sometimes works
 
 # Projects
+
+## Falconnect
+- [Falconnect](https://github.com/mck-9061/Falconnect) (Python, PowerPC Assembly): A work-in-progress online multiplayer mod for F-Zero GX
+- [dolphin-falconnect](https://github.com/mck-9061/dolphin-falconnect) (C++): Dolphin fork with required modifications for Falconnect to work properly
+
 ## Elite Dangerous
 - [CATS](https://github.com/mck-9061/CATS) (C#, Python): Program for managing carriers across multiple accounts and automatically plotting routes
 - [exobiology-riches](https://github.com/mck-9061/exobiology-riches) (React, TypeScript, JavaScript, Node): Web app for finding high-value planets by searching pre-Odyssey discoveries
