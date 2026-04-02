@@ -4,8 +4,8 @@ I make code that sometimes works
 # Projects
 
 ## Falconnect
-- [Falconnect](https://github.com/mck-9061/Falconnect) (Python, PowerPC Assembly): A work-in-progress online multiplayer mod for F-Zero GX
-- [dolphin-falconnect](https://github.com/mck-9061/dolphin-falconnect) (C++): Dolphin fork with required modifications for Falconnect to work properly
+- [Falconnect](https://github.com/mck-9061/Falconnect) (C++, PowerPC Assembly): A work-in-progress online multiplayer mod for F-Zero GX
+- [Falconnect-prototype](https://github.com/mck-9061/dolphin-falconnect) (Python, PowerPC Assembly): Prototype for Falconnect in Python
 
 ## Elite Dangerous
 - [CATS](https://github.com/mck-9061/CATS) (C#, Python): Program for managing carriers across multiple accounts and automatically plotting routes
