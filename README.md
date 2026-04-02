@@ -5,7 +5,7 @@ I make code that sometimes works
 
 ## Falconnect
 - [Falconnect](https://github.com/mck-9061/Falconnect) (C++, PowerPC Assembly): A work-in-progress online multiplayer mod for F-Zero GX
-- [Falconnect-prototype](https://github.com/mck-9061/dolphin-falconnect) (Python, PowerPC Assembly): Prototype for Falconnect in Python
+- [Falconnect-prototype](https://github.com/mck-9061/Falconnect-prototype) (Python, PowerPC Assembly): Prototype for Falconnect in Python
 
 ## Elite Dangerous
 - [CATS](https://github.com/mck-9061/CATS) (C#, Python): Program for managing carriers across multiple accounts and automatically plotting routes
