@@ -22,10 +22,6 @@ I make code that sometimes works
 - [Cadence](https://github.com/mck-9061/Group15TeamProject) (PHP): Year 2 team project - ecommerce website
 - [AstonPortfolio3](https://github.com/mck-9061/AstonPortfolio3) (PHP): Year 1 solo project - project management website
 
-## Miscellaneous/unfinished
-- [Arduino](https://github.com/mck-9061/MiscArduino)
-- [Python](https://github.com/mck-9061/MiscScripts)
-
 # Old Projects
 ## Minecraft Plugins (Java)
 - [Mounts](https://github.com/mck-9061/Mounts): Simple plugin for mounting entities with a specified item
